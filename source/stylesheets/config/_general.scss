@@ -1,0 +1,44 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Open-sans, sans-serif;
+  min-height: 100%;
+  position: relative;
+  padding-bottom: 150px;
+}
+
+h1, h2, h3 {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+
+.padded {
+  padding: 40px 0;
+}
+
+.wrapper-grey {
+  background: #F4F4F4;
+  padding: 100px;
+  margin-bottom: 70px;
+}
+
+.img-icon {
+  width: 100px;
+}
+
+.padded h2 {
+  font-size: 21px;
+}
+
+.newsletter {
+  margin-bottom: 90px;
+}
